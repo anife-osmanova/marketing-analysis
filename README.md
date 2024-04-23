@@ -30,11 +30,11 @@ The dataset utilized in this case study is sourced from Fitbit Fitness Tracker D
 
 Analysis of the dataset using the ROCCC criteria yields the following observations:
 
-	**Reliable:** The dataset lacks reliability due to its limited scope, showcasing data from only 30 FitBit users without providing essential demographic or geographical information. The small sample size raises concerns about the generalizability of findings.
-	**Original:** The dataset is not entirely original, as the provenance section indicates prior preprocessing. This introduces potential complications in understanding the complete data lifecycle.
-	**Comprehensive:** Despite its limitations, the dataset is deemed comprehensive as the included metrics align with the specific requirements of Bellabeat's analysis.
-	**Current:** The dataset exhibits a lack of currency, with data from 2016. This temporal gap may impact the relevance of insights derived from the analysis.
-	**Cited:** The dataset lacks proper citation details, as it was collected by a third party, and crucial information such as the author's name is unavailable. This absence of citation affects the transparency and credibility of the dataset.
+**Reliable**: The dataset lacks reliability due to its limited scope, showcasing data from only 30 FitBit users without providing essential demographic or geographical information. The small sample size raises concerns about the generalizability of findings.
+**Original**: The dataset is not entirely original, as the provenance section indicates prior preprocessing. This introduces potential complications in understanding the complete data lifecycle.
+**Comprehensive**: Despite its limitations, the dataset is deemed comprehensive as the included metrics align with the specific requirements of Bellabeat's analysis.
+**Current**: The dataset exhibits a lack of currency, with data from 2016. This temporal gap may impact the relevance of insights derived from the analysis.
+**Cited**: The dataset lacks proper citation details, as it was collected by a third party, and crucial information such as the author's name is unavailable. This absence of citation affects the transparency and credibility of the dataset.
 
 
 ## Loading Packages
